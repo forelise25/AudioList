@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="6"
-        android:background="#dab3ce"
+        android:background="#bc9cf7"
          >
         <ListView
             android:id="@+id/list_music"
