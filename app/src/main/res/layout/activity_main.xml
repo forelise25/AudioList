@@ -30,13 +30,19 @@
         <Button
             android:id="@+id/but_play"
             android:text="play"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content">
         </Button>
         <Button
             android:id="@+id/but_stop"
             android:text="stop"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </Button>
+        <Button
+            android:id="@+id/but_pause"
+            android:text="pause"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content">
         </Button>
     </LinearLayout>
